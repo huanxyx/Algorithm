@@ -1,0 +1,2 @@
+保证不会Backwash的解法：
+1.创建两个WeightedQuickUnion，一个同时有关虚拟顶层和虚拟底层，一个只有虚拟顶层。

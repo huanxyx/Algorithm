@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/p/princeton/algorithm/assignment/percolation/Percolation.java=UTF-8
+encoding//src/p/princeton/algorithm/assignment/percolation/PercolationStats.java=UTF-8
+encoding//src/p/princeton/algorithm/assignment/percolation/test/InteractivePercolationVisualizer.java=UTF-8
+encoding//src/p/princeton/algorithm/assignment/percolation/test/PercolationVisualizer.java=UTF-8
+encoding//src/p/princeton/algorithm/dynamicconnectivity/UF.java=UTF-8
+encoding//src/p/princeton/algorithm/dynamicconnectivity/impl/QuickFindUF.java=UTF-8
+encoding//src/p/princeton/algorithm/dynamicconnectivity/impl/QuickUnionUF.java=UTF-8
+encoding//src/p/princeton/algorithm/dynamicconnectivity/impl/WeightedQuickUnionUF.java=UTF-8
+encoding//src/p/princeton/algorithm/\u5F00\u53D1\u6709\u6548\u7B97\u6CD5\u7684\u6B65\u9AA4.txt=UTF-8
