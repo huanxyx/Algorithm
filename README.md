@@ -1,6 +1,6 @@
 # Algorithm
 
-###Princeton_1：part1
+### Princeton_1：part1
 - Week1
 	- DynamicConnectivity
 		- 快速查找并查集。
