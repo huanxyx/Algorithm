@@ -59,7 +59,7 @@
 	- 从前往后，对于当前i，取Random(i)位置的元素与i位置的元素进行交换。
 	- 从后往前，对于当前i，取Random(i)位置的元素与i位置的元素进行交换。
 
-##凸包（Convex Hull）
+## 凸包（Convex Hull）
 - 还未实现。
 - 凸包：是包含所有点的最小的凸状点集合
 - 在每个点扎上图钉，然后用一根带子将所有的钉子围起来收紧，就可以得到这个点集的凸包。
@@ -79,7 +79,7 @@
 	- 3.舍弃那些无法产生逆时针旋转的点。
 	![](葛立恒扫描法.png)
 - 如何判断三点a->b->c是逆时针还是顺时针。
-```
+```java
     /**
      * Returns true if a→b→c is a counterclockwise turn.
      * @param a first point
